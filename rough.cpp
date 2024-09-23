@@ -2,8 +2,8 @@
 #include<iostream>
 int main()
 {
-    int a;
-    scanf("%d",&a);
-    std::cout<<"the value of a is "<<a;
+    int aaaa;
+    scanf("%d",&aaaa);
+    std::cout<<"the value of a is "<<aaaa;
     return 0;
 }
