@@ -1,0 +1,1 @@
+ printf("%dx%d=%6d\n",i,j,(i*j));
